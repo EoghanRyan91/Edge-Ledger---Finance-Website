@@ -1,0 +1,28 @@
+/* Text Colors */
+
+.text-primary {
+  color: #28a745
+}
+
+.text-secondary {
+  color: #0284d0;
+}
+
+.btn {
+  cursor: pointer;
+  background: #28a745;
+  color: white;
+  padding: 10px 30px;
+  border: white 1px solid;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+/* img {
+  width: 100%;
+  height: 100%;
+} */
